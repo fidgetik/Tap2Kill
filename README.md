@@ -3,10 +3,10 @@
 Время игры: 60 секунд (Задано в GameController - переменная "TimeForGame")
 Время появления и исчезания фигур задаются через инспектор в Юнити.
 
-Assets/Scripts:
-Clients.cs - Подключение к фейковому серверу.
-GameController.cs - Основное управление игрой.
-Hud.cs - Контроль визуального интерфейса.
-Menu.cs - Главное меню игры.
-PointsController.cs - Управление счётом.
+Assets/Scripts:\r\n
+Clients.cs - Подключение к фейковому серверу.\r\n
+GameController.cs - Основное управление игрой.\r\n
+Hud.cs - Контроль визуального интерфейса.\r\n
+Menu.cs - Главное меню игры.\r\n
+PointsController.cs - Управление счётом.\r\n
 ShapeController.cs - Управление фигурами.
